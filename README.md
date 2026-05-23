@@ -1,1 +1,4 @@
 PUT ALL FILES IN A FOLDER THEN RUN, IT NEEDS ALL THE JSON, DLL, AND PDB FILES TO RUN PROPERLY
+
+DONT USE ON EXE'S MADE WITH PYINSTALLER OR THIS WILL HAPPEN <img width="634" height="296" alt="image" src="https://github.com/user-attachments/assets/8b0f8189-c251-4f0d-ad4b-46573bfe3c27" />
+
